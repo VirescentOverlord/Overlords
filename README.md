@@ -1,0 +1,3 @@
+# This is under Development but I would love some feedback and info on what to do.
+</br>
+p.s. I don't even know how to make a game other then the menu so this project will be interesting...
